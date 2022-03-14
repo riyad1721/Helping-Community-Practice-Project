@@ -1,0 +1,12 @@
+.header-container{
+    background-color: rgb(245, 223, 198);
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid lightsteelblue;
+    border-radius: 10px;
+    text-align: center;
+}
+.header-container h1,h4{
+    color: cadetblue;
+}
